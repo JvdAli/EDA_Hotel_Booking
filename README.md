@@ -132,19 +132,21 @@ Heatmap
 2) stays_in_week_nights and total_stay has positive correlation which is 0.95.
 
 ## Overall conclusions drawn:
-1) City hotel has almost 60% bookings and resort hotel has 40% bookings.
-2) Agent no. 9 made most bookins and those bookings are 28721.
-3) Percentage of repeated guest is just 4%.
-4) Room type A is most preferred room type 46283 guests preferred A room type.
-5) BB type food is most preferred food type and 67907 preferred this food.
-6) Auust month has maximum number of bookings and those bookings are 11242.
-7) TA/TO distribution channel is mostly prefderred channel and the bookings are 69028.
-8) 2016 year has 42313 bookings.
-9) City hotel has highest ADR and trhe average ADR is 111.27.
-10) City hotel has longer waiting time means city hotel is busy hotel type.
-11) GDS contribution channel contributed more to ADR in order to incerease income in city hotel.
-12) Optimal stay length in both hotel type is leaa than 7 days.
-13) Repeated do not cancel there bookings.
-14) The number of people increases ADR increases.
-15) arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51.
-16) stays_in_week_nights and total_stay has positive correlation which is 0.95.
+*   City hotels are the most preferred hotel type by the guests. We can say City hotel is the busiest hotel.
+*   27.5 % bookings were got cancelled out of all the bookings.
+*   Only 3.9 % people were revisited the hotels. Rest 96.1 % were new guests. Thus,retention rate is very low.
+*   The percentage of 0 changes made in the booking was more than 82 %. Percentage of single changes made was about 10%.
+*   Most of the customers (91.6%) do not require car parking space.
+*   **TA/TO** (travel agents/Tour operators) distribution channel is mostly used, and the percentage age is 79.13%.
+*   BB( Bed & Breakfast) is the most preferred type of meal by the guests.
+*   Maximum number of guests were from Portugal, i.e. more than 25,000 guests.
+*   Most of the bookings for City hotels and Resort hotel were happened in 2016.
+*   Average ADR for city hotel is high as compared to resort hotels. These City hotels are generating more revenue than the resort hotels.
+*   Booking cancellation rate is high for City hotels which almost 30 %.
+*   Average lead time for resort hotel is high.
+*   Waiting time period for City hotel is high as compared to resort hotels. That means city hotels are much busier than Resort hotels.
+*   Optimal stay in both the type hotel is less than 7 days. Usually people stay for a week.
+*   Almost 19 % people did not cancel their bookings even after not getting the same room which they reserved while booking hotel. Only 2.5 % people cancelled the booking.
+*   **2016 year** had the highest number of bookings and bookings were 42,313.
+*   **arrival_date_year** and **arrival_date_week_number** columns have a negative correlation which is **-0.51**.
+*   **stays_in_week_nights** and **total_stay_in_nights** columns have a positive correlation which is **0.95**.
